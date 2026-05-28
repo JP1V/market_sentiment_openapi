@@ -1,11 +1,11 @@
 # Market Sentiment API
-[![RapidAPI](https://img.shields.io/badge/RapidAPI-Get%20Started-blue)](https://rapidapi.com/JP1V/api/market-sentiment-api)
+[![RapidAPI](https://img.shields.io/badge/RapidAPI-Get%20Started-blue)](https://rapidapi.com/JP1V/api/market-sentiment1)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-3.1-green)](https://jp1v.github.io/market_sentiment_openapi/)
 
 AI-powered financial news sentiment for stocks, commodities, ETFs, and macro assets. Pass a ticker, get a bullish/bearish/neutral signal with confidence score and plain-English summary, sourced from Reuters, Bloomberg, CNBC, Financial Times, BBC News, and Al Jazeera, updated every 5 minutes.
 
 ### 1. Get your API key
-[Subscribe on RapidAPI](https://rapidapi.com/JP1V/api/market-sentiment-api) (Free tier available)
+[Subscribe on RapidAPI](https://rapidapi.com/JP1V/api/market-sentiment1) (Free tier available)
 
 ### 2. Make your first request
 ```bash
